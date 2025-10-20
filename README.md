@@ -1,1 +1,1 @@
-# attendance-tracker
+# attendance-tracker for tracking attendance
